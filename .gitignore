@@ -1,0 +1,14 @@
+**/*.iml
+**/*.sdf
+**/*.sln
+**/*.dll
+**/*.suo
+**/*.tlog
+**/*.user
+**/*.vcxproj
+**/*.filters
+**/output.txt
+**/.vs/
+**/.idea/
+**/out/
+**/x64/
