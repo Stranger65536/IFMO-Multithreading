@@ -1,0 +1,1040 @@
+size = 10
+1 host
+iteration 1
+Time taken: 0ms
+iteration 2
+Time taken: 0ms
+iteration 3
+Time taken: 0ms
+iteration 4
+Time taken: 0ms
+iteration 5
+Time taken: 0ms
+iteration 6
+Time taken: 0ms
+iteration 7
+Time taken: 0ms
+iteration 8
+Time taken: 2ms
+iteration 9
+Time taken: 0ms
+iteration 10
+Time taken: 0ms
+2 hosts
+iteration 1
+Time taken: 9ms
+Time taken: 5ms
+iteration 2
+Time taken: 7ms
+Time taken: 8ms
+iteration 3
+Time taken: 13ms
+Time taken: 11ms
+iteration 4
+Time taken: 8ms
+Time taken: 5ms
+iteration 5
+Time taken: 4ms
+Time taken: 5ms
+iteration 6
+Time taken: 8ms
+Time taken: 7ms
+iteration 7
+Time taken: 10ms
+Time taken: 12ms
+iteration 8
+Time taken: 13ms
+Time taken: 5ms
+iteration 9
+Time taken: 22ms
+Time taken: 6ms
+iteration 10
+Time taken: 6ms
+Time taken: 5ms
+4 hosts
+iteration 1
+Time taken: 22ms
+Time taken: 19ms
+Time taken: 9ms
+Time taken: 18ms
+iteration 2
+Time taken: 15ms
+Time taken: 13ms
+Time taken: 13ms
+Time taken: 13ms
+iteration 3
+Time taken: 25ms
+Time taken: 23ms
+Time taken: 22ms
+Time taken: 23ms
+iteration 4
+Time taken: 15ms
+Time taken: 17ms
+Time taken: 17ms
+Time taken: 17ms
+iteration 5
+Time taken: 14ms
+Time taken: 14ms
+Time taken: 16ms
+Time taken: 13ms
+iteration 6
+Time taken: 16ms
+Time taken: 15ms
+Time taken: 14ms
+Time taken: 14ms
+iteration 7
+Time taken: 16ms
+Time taken: 23ms
+Time taken: 22ms
+Time taken: 21ms
+iteration 8
+Time taken: 17ms
+Time taken: 16ms
+Time taken: 17ms
+Time taken: 15ms
+iteration 9
+Time taken: 19ms
+Time taken: 9ms
+Time taken: 30ms
+Time taken: 30ms
+iteration 10
+Time taken: 112ms
+Time taken: 110ms
+Time taken: 58ms
+Time taken: 110ms
+size = 100
+1 host
+iteration 1
+Time taken: 13ms
+iteration 2
+Time taken: 15ms
+iteration 3
+Time taken: 16ms
+iteration 4
+Time taken: 16ms
+iteration 5
+Time taken: 17ms
+iteration 6
+Time taken: 17ms
+iteration 7
+Time taken: 13ms
+iteration 8
+Time taken: 15ms
+iteration 9
+Time taken: 54ms
+iteration 10
+Time taken: 15ms
+2 hosts
+iteration 1
+Time taken: 70ms
+Time taken: 73ms
+iteration 2
+Time taken: 73ms
+Time taken: 66ms
+iteration 3
+Time taken: 52ms
+Time taken: 49ms
+iteration 4
+Time taken: 58ms
+Time taken: 39ms
+iteration 5
+Time taken: 26ms
+Time taken: 22ms
+iteration 6
+Time taken: 30ms
+Time taken: 27ms
+iteration 7
+Time taken: 28ms
+Time taken: 25ms
+iteration 8
+Time taken: 60ms
+Time taken: 63ms
+iteration 9
+Time taken: 25ms
+Time taken: 28ms
+iteration 10
+Time taken: 33ms
+Time taken: 28ms
+4 hosts
+iteration 1
+Time taken: 316ms
+Time taken: 317ms
+Time taken: 325ms
+Time taken: 268ms
+iteration 2
+Time taken: 626ms
+Time taken: 622ms
+Time taken: 623ms
+Time taken: 577ms
+iteration 3
+Time taken: 1452ms
+Time taken: 1514ms
+Time taken: 1511ms
+Time taken: 1497ms
+iteration 4
+Time taken: 1395ms
+Time taken: 1389ms
+Time taken: 1399ms
+Time taken: 1395ms
+iteration 5
+Time taken: 605ms
+Time taken: 602ms
+Time taken: 602ms
+Time taken: 568ms
+iteration 6
+Time taken: 1019ms
+Time taken: 1022ms
+Time taken: 1002ms
+Time taken: 959ms
+iteration 7
+Time taken: 560ms
+Time taken: 557ms
+Time taken: 520ms
+Time taken: 487ms
+iteration 8
+Time taken: 1447ms
+Time taken: 1354ms
+Time taken: 1444ms
+Time taken: 1444ms
+iteration 9
+Time taken: 1188ms
+Time taken: 1159ms
+Time taken: 1185ms
+Time taken: 1183ms
+iteration 10
+Time taken: 735ms
+Time taken: 732ms
+Time taken: 728ms
+Time taken: 727ms
+size = 200
+1 host
+iteration 1
+Time taken: 94ms
+iteration 2
+Time taken: 96ms
+iteration 3
+Time taken: 92ms
+iteration 4
+Time taken: 85ms
+iteration 5
+Time taken: 85ms
+iteration 6
+Time taken: 147ms
+iteration 7
+Time taken: 92ms
+iteration 8
+Time taken: 180ms
+iteration 9
+Time taken: 123ms
+iteration 10
+Time taken: 88ms
+2 hosts
+iteration 1
+Time taken: 157ms
+Time taken: 161ms
+iteration 2
+Time taken: 137ms
+Time taken: 115ms
+iteration 3
+Time taken: 236ms
+Time taken: 229ms
+iteration 4
+Time taken: 120ms
+Time taken: 116ms
+iteration 5
+Time taken: 98ms
+Time taken: 92ms
+iteration 6
+Time taken: 139ms
+Time taken: 136ms
+iteration 7
+Time taken: 282ms
+Time taken: 275ms
+iteration 8
+Time taken: 100ms
+Time taken: 94ms
+iteration 9
+Time taken: 200ms
+Time taken: 193ms
+iteration 10
+Time taken: 164ms
+Time taken: 169ms
+4 hosts
+iteration 1
+Time taken: 2086ms
+Time taken: 2081ms
+Time taken: 2082ms
+Time taken: 2050ms
+iteration 2
+Time taken: 2796ms
+Time taken: 2780ms
+Time taken: 2875ms
+Time taken: 2870ms
+iteration 3
+Time taken: 2398ms
+Time taken: 2469ms
+Time taken: 2382ms
+Time taken: 2325ms
+iteration 4
+Time taken: 1744ms
+Time taken: 1739ms
+Time taken: 1653ms
+Time taken: 1632ms
+iteration 5
+Time taken: 617ms
+Time taken: 612ms
+Time taken: 540ms
+Time taken: 603ms
+iteration 6
+Time taken: 753ms
+Time taken: 764ms
+Time taken: 699ms
+Time taken: 749ms
+iteration 7
+Time taken: 284ms
+Time taken: 296ms
+Time taken: 273ms
+Time taken: 284ms
+iteration 8
+Time taken: 432ms
+Time taken: 443ms
+Time taken: 410ms
+Time taken: 356ms
+iteration 9
+Time taken: 438ms
+Time taken: 444ms
+Time taken: 417ms
+Time taken: 438ms
+iteration 10
+Time taken: 271ms
+Time taken: 282ms
+Time taken: 245ms
+Time taken: 268ms
+size = 400
+1 host
+iteration 1
+Time taken: 760ms
+iteration 2
+Time taken: 771ms
+iteration 3
+Time taken: 764ms
+iteration 4
+Time taken: 763ms
+iteration 5
+Time taken: 773ms
+iteration 6
+Time taken: 760ms
+iteration 7
+Time taken: 750ms
+iteration 8
+Time taken: 730ms
+iteration 9
+Time taken: 746ms
+iteration 10
+Time taken: 755ms
+2 hosts
+iteration 1
+Time taken: 585ms
+Time taken: 598ms
+iteration 2
+Time taken: 526ms
+Time taken: 537ms
+iteration 3
+Time taken: 523ms
+Time taken: 536ms
+iteration 4
+Time taken: 582ms
+Time taken: 570ms
+iteration 5
+Time taken: 516ms
+Time taken: 529ms
+iteration 6
+Time taken: 547ms
+Time taken: 537ms
+iteration 7
+Time taken: 561ms
+Time taken: 536ms
+iteration 8
+Time taken: 527ms
+Time taken: 538ms
+iteration 9
+Time taken: 481ms
+Time taken: 492ms
+iteration 10
+Time taken: 615ms
+Time taken: 628ms
+4 hosts
+iteration 1
+Time taken: 810ms
+Time taken: 799ms
+Time taken: 778ms
+Time taken: 799ms
+iteration 2
+Time taken: 957ms
+Time taken: 948ms
+Time taken: 895ms
+Time taken: 925ms
+iteration 3
+Time taken: 851ms
+Time taken: 841ms
+Time taken: 841ms
+Time taken: 824ms
+iteration 4
+Time taken: 777ms
+Time taken: 794ms
+Time taken: 757ms
+Time taken: 763ms
+iteration 5
+Time taken: 806ms
+Time taken: 756ms
+Time taken: 796ms
+Time taken: 796ms
+iteration 6
+Time taken: 724ms
+Time taken: 703ms
+Time taken: 713ms
+Time taken: 703ms
+iteration 7
+Time taken: 1095ms
+Time taken: 1094ms
+Time taken: 1047ms
+Time taken: 1116ms
+iteration 8
+Time taken: 938ms
+Time taken: 916ms
+Time taken: 891ms
+Time taken: 929ms
+iteration 9
+Time taken: 852ms
+Time taken: 841ms
+Time taken: 816ms
+Time taken: 842ms
+iteration 10
+Time taken: 969ms
+Time taken: 944ms
+Time taken: 989ms
+Time taken: 945ms
+size = 800
+1 host
+iteration 1
+Time taken: 2110ms
+iteration 2
+Time taken: 1970ms
+iteration 3
+Time taken: 1920ms
+iteration 4
+Time taken: 1983ms
+iteration 5
+Time taken: 1918ms
+iteration 6
+Time taken: 1948ms
+iteration 7
+Time taken: 1958ms
+iteration 8
+Time taken: 1901ms
+iteration 9
+Time taken: 2067ms
+iteration 10
+Time taken: 1951ms
+2 hosts
+iteration 1
+Time taken: 1412ms
+Time taken: 1448ms
+iteration 2
+Time taken: 1456ms
+Time taken: 1489ms
+iteration 3
+Time taken: 1461ms
+Time taken: 1432ms
+iteration 4
+Time taken: 1437ms
+Time taken: 1452ms
+iteration 5
+Time taken: 1469ms
+Time taken: 1446ms
+iteration 6
+Time taken: 1492ms
+Time taken: 1513ms
+iteration 7
+Time taken: 1492ms
+Time taken: 1513ms
+iteration 8
+Time taken: 1464ms
+Time taken: 1492ms
+iteration 9
+Time taken: 1469ms
+Time taken: 1478ms
+iteration 10
+Time taken: 1475ms
+Time taken: 1466ms
+4 hosts
+iteration 1
+Time taken: 1177ms
+Time taken: 1173ms
+Time taken: 1198ms
+Time taken: 1102ms
+iteration 2
+Time taken: 1342ms
+Time taken: 1330ms
+Time taken: 1322ms
+Time taken: 1306ms
+iteration 3
+Time taken: 1198ms
+Time taken: 1218ms
+Time taken: 1157ms
+Time taken: 1194ms
+iteration 4
+Time taken: 1131ms
+Time taken: 1121ms
+Time taken: 1103ms
+Time taken: 1119ms
+iteration 5
+Time taken: 1254ms
+Time taken: 1270ms
+Time taken: 1239ms
+Time taken: 1255ms
+iteration 6
+Time taken: 1144ms
+Time taken: 1133ms
+Time taken: 1099ms
+Time taken: 1133ms
+iteration 7
+Time taken: 1088ms
+Time taken: 1089ms
+Time taken: 1101ms
+Time taken: 1054ms
+iteration 8
+Time taken: 1443ms
+Time taken: 1444ms
+Time taken: 1429ms
+Time taken: 1467ms
+iteration 9
+Time taken: 1297ms
+Time taken: 1284ms
+Time taken: 1283ms
+Time taken: 1282ms
+iteration 10
+Time taken: 1291ms
+Time taken: 1257ms
+Time taken: 1310ms
+Time taken: 1292ms
+size = 1600
+1 host
+iteration 1
+Time taken: 6276ms
+iteration 2
+Time taken: 6218ms
+iteration 3
+Time taken: 6165ms
+iteration 4
+Time taken: 6095ms
+iteration 5
+Time taken: 6372ms
+iteration 6
+Time taken: 6617ms
+iteration 7
+Time taken: 6449ms
+iteration 8
+Time taken: 5317ms
+iteration 9
+Time taken: 5224ms
+iteration 10
+Time taken: 5078ms
+2 hosts
+iteration 1
+Time taken: 3601ms
+Time taken: 3647ms
+iteration 2
+Time taken: 3609ms
+Time taken: 3639ms
+iteration 3
+Time taken: 3616ms
+Time taken: 3577ms
+iteration 4
+Time taken: 3581ms
+Time taken: 3616ms
+iteration 5
+Time taken: 3848ms
+Time taken: 3885ms
+iteration 6
+Time taken: 3569ms
+Time taken: 3590ms
+iteration 7
+Time taken: 3567ms
+Time taken: 3582ms
+iteration 8
+Time taken: 3588ms
+Time taken: 3614ms
+iteration 9
+Time taken: 3609ms
+Time taken: 3649ms
+iteration 10
+Time taken: 3554ms
+Time taken: 3578ms
+4 hosts
+iteration 1
+Time taken: 2593ms
+Time taken: 2623ms
+Time taken: 2577ms
+Time taken: 2588ms
+iteration 2
+Time taken: 3525ms
+Time taken: 3524ms
+Time taken: 3548ms
+Time taken: 3581ms
+iteration 3
+Time taken: 3029ms
+Time taken: 3008ms
+Time taken: 2964ms
+Time taken: 3007ms
+iteration 4
+Time taken: 2882ms
+Time taken: 2913ms
+Time taken: 2885ms
+Time taken: 2862ms
+iteration 5
+Time taken: 2876ms
+Time taken: 2906ms
+Time taken: 2871ms
+Time taken: 2876ms
+iteration 6
+Time taken: 2890ms
+Time taken: 2864ms
+Time taken: 2855ms
+Time taken: 2726ms
+iteration 7
+Time taken: 2919ms
+Time taken: 2943ms
+Time taken: 2919ms
+Time taken: 2910ms
+iteration 8
+Time taken: 2728ms
+Time taken: 2704ms
+Time taken: 2751ms
+Time taken: 2728ms
+iteration 9
+Time taken: 2755ms
+Time taken: 2757ms
+Time taken: 2787ms
+Time taken: 2750ms
+iteration 10
+Time taken: 2902ms
+Time taken: 2925ms
+Time taken: 2888ms
+Time taken: 2649ms
+size = 3200
+1 host
+iteration 1
+Time taken: 20261ms
+iteration 2
+Time taken: 16936ms
+iteration 3
+Time taken: 16417ms
+iteration 4
+Time taken: 16364ms
+iteration 5
+Time taken: 17977ms
+iteration 6
+Time taken: 19142ms
+iteration 7
+Time taken: 18977ms
+iteration 8
+Time taken: 19727ms
+iteration 9
+Time taken: 18993ms
+iteration 10
+Time taken: 16833ms
+2 hosts
+iteration 1
+Time taken: 11257ms
+Time taken: 11317ms
+iteration 2
+Time taken: 10864ms
+Time taken: 10920ms
+iteration 3
+Time taken: 10964ms
+Time taken: 11008ms
+iteration 4
+Time taken: 12440ms
+Time taken: 12503ms
+iteration 5
+Time taken: 11694ms
+Time taken: 11638ms
+iteration 6
+Time taken: 11176ms
+Time taken: 11245ms
+iteration 7
+Time taken: 11395ms
+Time taken: 11452ms
+iteration 8
+Time taken: 11550ms
+Time taken: 11602ms
+iteration 9
+Time taken: 11468ms
+Time taken: 11527ms
+iteration 10
+Time taken: 11697ms
+Time taken: 11775ms
+4 hosts
+iteration 1
+Time taken: 17493ms
+Time taken: 17611ms
+Time taken: 17765ms
+Time taken: 17695ms
+iteration 2
+Time taken: 11907ms
+Time taken: 11977ms
+Time taken: 11877ms
+Time taken: 12021ms
+iteration 3
+Time taken: 12312ms
+Time taken: 12223ms
+Time taken: 12349ms
+Time taken: 12173ms
+iteration 4
+Time taken: 12038ms
+Time taken: 12025ms
+Time taken: 11961ms
+Time taken: 12119ms
+iteration 5
+Time taken: 10701ms
+Time taken: 10613ms
+Time taken: 10728ms
+Time taken: 10776ms
+iteration 6
+Time taken: 12703ms
+Time taken: 12621ms
+Time taken: 12749ms
+Time taken: 12698ms
+iteration 7
+Time taken: 12811ms
+Time taken: 12712ms
+Time taken: 12731ms
+Time taken: 12913ms
+iteration 8
+Time taken: 11479ms
+Time taken: 11371ms
+Time taken: 11415ms
+Time taken: 11538ms
+iteration 9
+Time taken: 11721ms
+Time taken: 11828ms
+Time taken: 11877ms
+Time taken: 11735ms
+iteration 10
+Time taken: 12595ms
+Time taken: 12511ms
+Time taken: 12501ms
+Time taken: 12674ms
+size = 4800
+1 host
+iteration 1
+Time taken: 34651ms
+iteration 2
+Time taken: 36337ms
+iteration 3
+Time taken: 38018ms
+iteration 4
+Time taken: 35095ms
+iteration 5
+Time taken: 32315ms
+iteration 6
+Time taken: 34714ms
+iteration 7
+Time taken: 44368ms
+iteration 8
+Time taken: 59642ms
+iteration 9
+Time taken: 51079ms
+iteration 10
+Time taken: 63851ms
+2 hosts
+iteration 1
+Time taken: 31071ms
+Time taken: 31171ms
+iteration 2
+Time taken: 38730ms
+Time taken: 38835ms
+iteration 3
+Time taken: 28931ms
+Time taken: 29007ms
+iteration 4
+Time taken: 26717ms
+Time taken: 26894ms
+iteration 5
+Time taken: 26712ms
+Time taken: 26779ms
+iteration 6
+Time taken: 28157ms
+Time taken: 28261ms
+iteration 7
+Time taken: 22822ms
+Time taken: 22912ms
+iteration 8
+Time taken: 25662ms
+Time taken: 25762ms
+iteration 9
+Time taken: 23947ms
+Time taken: 24049ms
+iteration 10
+Time taken: 24159ms
+Time taken: 24278ms
+4 hosts
+iteration 1
+Time taken: 19440ms
+Time taken: 19546ms
+Time taken: 19452ms
+Time taken: 19486ms
+iteration 2
+Time taken: 15792ms
+Time taken: 15789ms
+Time taken: 15766ms
+Time taken: 15848ms
+iteration 3
+Time taken: 13128ms
+Time taken: 13158ms
+Time taken: 13160ms
+Time taken: 13220ms
+iteration 4
+Time taken: 13275ms
+Time taken: 13275ms
+Time taken: 13282ms
+Time taken: 13358ms
+iteration 5
+Time taken: 13130ms
+Time taken: 13130ms
+Time taken: 13130ms
+Time taken: 13177ms
+iteration 6
+Time taken: 14694ms
+Time taken: 14695ms
+Time taken: 14695ms
+Time taken: 14755ms
+iteration 7
+Time taken: 14601ms
+Time taken: 14601ms
+Time taken: 14602ms
+Time taken: 14673ms
+iteration 8
+Time taken: 14241ms
+Time taken: 14241ms
+Time taken: 14241ms
+Time taken: 14330ms
+iteration 9
+Time taken: 15012ms
+Time taken: 15010ms
+Time taken: 15039ms
+Time taken: 15097ms
+iteration 10
+Time taken: 19429ms
+Time taken: 19425ms
+Time taken: 19425ms
+Time taken: 19498ms
+size = 6400
+1 host
+iteration 1
+Time taken: 56746ms
+iteration 2
+Time taken: 60793ms
+iteration 3
+Time taken: 45875ms
+iteration 4
+Time taken: 51387ms
+iteration 5
+Time taken: 46550ms
+iteration 6
+Time taken: 47207ms
+iteration 7
+Time taken: 43062ms
+iteration 8
+Time taken: 49027ms
+iteration 9
+Time taken: 43325ms
+iteration 10
+Time taken: 47749ms
+2 hosts
+iteration 1
+Time taken: 28207ms
+Time taken: 28276ms
+iteration 2
+Time taken: 33770ms
+Time taken: 33923ms
+iteration 3
+Time taken: 31578ms
+Time taken: 31651ms
+iteration 4
+Time taken: 26496ms
+Time taken: 26576ms
+iteration 5
+Time taken: 27810ms
+Time taken: 27888ms
+iteration 6
+Time taken: 35533ms
+Time taken: 35638ms
+iteration 7
+Time taken: 31646ms
+Time taken: 31725ms
+iteration 8
+Time taken: 27797ms
+Time taken: 27895ms
+iteration 9
+Time taken: 35109ms
+Time taken: 35186ms
+iteration 10
+Time taken: 28899ms
+Time taken: 28984ms
+4 hosts
+iteration 1
+Time taken: 23701ms
+Time taken: 23701ms
+Time taken: 23701ms
+Time taken: 23802ms
+iteration 2
+Time taken: 22987ms
+Time taken: 22986ms
+Time taken: 22987ms
+Time taken: 23089ms
+iteration 3
+Time taken: 23233ms
+Time taken: 23232ms
+Time taken: 23236ms
+Time taken: 23328ms
+iteration 4
+Time taken: 23386ms
+Time taken: 23388ms
+Time taken: 23388ms
+Time taken: 23482ms
+iteration 5
+Time taken: 23507ms
+Time taken: 23507ms
+Time taken: 23511ms
+Time taken: 23632ms
+iteration 6
+Time taken: 25411ms
+Time taken: 25410ms
+Time taken: 25413ms
+Time taken: 25487ms
+iteration 7
+Time taken: 21927ms
+Time taken: 21927ms
+Time taken: 21929ms
+Time taken: 22009ms
+iteration 8
+Time taken: 22070ms
+Time taken: 22072ms
+Time taken: 22073ms
+Time taken: 22152ms
+iteration 9
+Time taken: 23314ms
+Time taken: 23318ms
+Time taken: 23315ms
+Time taken: 23467ms
+iteration 10
+Time taken: 23925ms
+Time taken: 23925ms
+Time taken: 23920ms
+Time taken: 24051ms
+size = 8000
+1 host
+iteration 1
+Error occurred: bad allocation
+iteration 2
+Error occurred: bad allocation
+iteration 3
+Error occurred: bad allocation
+iteration 4
+Error occurred: bad allocation
+iteration 5
+Error occurred: bad allocation
+iteration 6
+Error occurred: bad allocation
+iteration 7
+Error occurred: bad allocation
+iteration 8
+Error occurred: bad allocation
+iteration 9
+Error occurred: bad allocation
+iteration 10
+Error occurred: bad allocation
+2 hosts
+iteration 1
+Time taken: 66156ms
+Time taken: 66270ms
+iteration 2
+Time taken: 61710ms
+Time taken: 61809ms
+iteration 3
+Time taken: 63621ms
+Time taken: 63725ms
+iteration 4
+Time taken: 52562ms
+Time taken: 52707ms
+iteration 5
+Time taken: 52945ms
+Time taken: 53067ms
+iteration 6
+Time taken: 53841ms
+Time taken: 53943ms
+iteration 7
+Time taken: 52887ms
+Time taken: 52980ms
+iteration 8
+Time taken: 52923ms
+Time taken: 53032ms
+iteration 9
+Time taken: 54082ms
+Time taken: 54184ms
+iteration 10
+Time taken: 55920ms
+Time taken: 56043ms
+4 hosts
+iteration 1
+Time taken: 49012ms
+Time taken: 49017ms
+Time taken: 49014ms
+Time taken: 49150ms
+iteration 2
+Time taken: 56791ms
+Time taken: 56775ms
+Time taken: 56777ms
+Time taken: 56979ms
+iteration 3
+Time taken: 58063ms
+Time taken: 58059ms
+Time taken: 58055ms
+Time taken: 58195ms
+iteration 4
+Time taken: 70866ms
+Time taken: 70727ms
+Time taken: 71066ms
+Time taken: 70847ms
+iteration 5
+Time taken: 59707ms
+Time taken: 59779ms
+Time taken: 59749ms
+Time taken: 59902ms
+iteration 6
+Time taken: 45973ms
+Time taken: 45977ms
+Time taken: 45934ms
+Time taken: 46221ms
+iteration 7
+Time taken: 50456ms
+Time taken: 50456ms
+Time taken: 50457ms
+Time taken: 50650ms
+iteration 8
+Time taken: 44409ms
+Time taken: 44412ms
+Time taken: 44407ms
+Time taken: 44517ms
+iteration 9
+Time taken: 46921ms
+Time taken: 46921ms
+Time taken: 46923ms
+Time taken: 47089ms
+iteration 10
+Time taken: 48987ms
+Time taken: 48993ms
+Time taken: 48988ms
+Time taken: 49103ms
